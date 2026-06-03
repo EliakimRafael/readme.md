@@ -35,8 +35,6 @@ Desenvolvedor apaixonado por transformar lógica em soluções visuais e automa�
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-%23EF2424.svg?style=for-the-badge&logo=anydesk&logoColor=white)
  
- 
-### 🚀 Projetos em Destaque
 ---
 ## 🚀 Projetos em Destaque
 
